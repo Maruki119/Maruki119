@@ -1,5 +1,5 @@
 <h1 align="center">HI!, I'M NITITORN KIJPRASOPCHOK</h1>
-<h3 align="center">-------------------</h3>
+<h3 align="center">I’m a Computer Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki119&label=Profile%20views&color=0e75b6&style=flat" alt="maruki119" /> </p>
 
