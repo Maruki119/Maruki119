@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki119&label=Profile%20views&color=0e75b6&style=flat" alt="maruki119" /> </p>
 
 - 🔭 I’m currently study **@KASETSART-UNIVERSITY**
-- 📫 How to reach me **ampamp0009@gmail.com**
+- 📫 How to reach me **nititorn.kij@gmail.com**
 - ⚡ Fun fact **I LOVE CAT**
 
 <h3 align="left">Connect with me:</h3>
