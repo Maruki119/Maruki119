@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruki119&label=Profile%20views&color=0e75b6&style=flat" alt="maruki119" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on @KASETSART-UNIVERSITY<br>📫 How to reach me nititorn.kij@gmail.com<br>🌱 I’m currently learning Real-time os, Network programming<br>⚡ Fun fact I LOVE CAT
+🔭 I’m graduated on @KASETSART-UNIVERSITY<br>📫 How to reach me nititorn.kij@gmail.com<br>🌱 I’m currently learning Data Engineer path (ETL, Shell Script, Warehouse tools, Airflow, Kafka, Spark and Hadoop)<br>⚡ Fun fact I LOVE CAT
 
 
 ## 🌐 Socials:
